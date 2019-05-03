@@ -24,3 +24,9 @@ qrc_*.cpp
 build
 
 !src/leveldb/Makefile
+
+.qmake.stash
+Makefile.Debug
+Makefile.Release
+diverse-qt_plugin_import.cpp
+release/
